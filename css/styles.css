@@ -274,7 +274,6 @@ border-radius: 0px 0px 4px 4px;
 background: #fff;
 width: calc((100% - 72px) / 4);
   padding: 0px 0px 32px 0px;
-  width: 264px;
   height: 428px;
   box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1); 
@@ -303,7 +302,7 @@ width: calc((100% - 72px) / 4);
     text-align: center;
     margin-bottom: 8px;
 }
-.social-media {
+ul.social-media {
   display: flex;
   gap: 24px;
   justify-content: center;
